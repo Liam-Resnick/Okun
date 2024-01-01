@@ -24,7 +24,7 @@ This study is based around Arthur Okun's observed relationship between GDP and u
 - First place at Montgomery Science Research Competition
 
 ## Materials
-[Slides](presentation2021.pdf) presented in 2023 at:
+[Slides](okunpresentation.pdf) presented in 2021 at:
 - Pennsylvania Junior Academy of Science Regional Science Fair
 - Pennsylvania Junior Academy of Science State Science Fair
 - Montgomery Country Research Competition
