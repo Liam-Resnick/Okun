@@ -17,7 +17,7 @@
 
 ## Description
 
-This study is based around Arthur Okun's observed relationship between GDP and unemployment (modeled through a coefficient). My work involved applying machine learning on a large dataset of historical economic data to experimentally produce a refined coefficient. To evaluate the accuracy of the results, I computed the loss (sum of annual differences between Okun’s estimate and roughly 70 years of historic data) using both the original coefficient and my proposed value, finding that my approach improved prediction by 16.1%.
+This study is based on Arthur Okun's observed relationship between Gross Domestic Product (GDP) and unemployment, expressed as a coefficient. My work involved applying machine learning techniques to a large dataset of historical economic data to produce a refined coefficient. To evaluate the results' accuracy, I computed the loss (the sum of the annual differences between Okun’s estimates and approximately 70 years of historical data) using both the original and my proposed coefficients. This revealed that my approach improved prediction accuracy by 16.1%.
 
 ## Awards 
 - Second place at Pennsylvania Junior Academy of Science Regional Science Fair
